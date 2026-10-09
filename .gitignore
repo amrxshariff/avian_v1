@@ -1,0 +1,51 @@
+# Environments
+.venv/
+.env
+# Streamlit secrets: the local project key (README, "The API key")
+.streamlit/secrets.toml
+
+# Real personal data — never commit
+data/raw/
+data/cache/*
+!data/cache/claude_classification.json
+!data/cache/sweep_results.csv
+!data/cache/sweep_silhouette.png
+!data/cache/umap_sweep_results.csv
+!data/cache/umap_projection.png
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+data/eval/
+
+.env
+
+.vscode/
+
+# Diagnostics and derived edge data (P2.4 overlay reverted)
+diag_*.py
+diag_*.html
+data/graph/edges_topk.csv
+
+# Real-network artefacts � regenerate locally, never commit
+data/graph/network_nodes.csv
+data/graph/network_preview.png
+data/cache/umap_projection.png
+data/labels/cluster_labels.csv
+# Real job titles rendered as text in an image (D-76)
+data/labels/cluster_top_terms.png
+# Phase 1 graph outputs of the real network; regenerable only by the discarded pipeline (D-76)
+data/graph/
+
+# Rebuild backups: same real-name artefacts as the files they copy.
+data/**/*.bak*
+
+canvas_check.html
+
+# The ledger is runtime state, not an artefact.
+data/spend/

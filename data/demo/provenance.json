@@ -1,0 +1,11 @@
+{
+  "generated": "2026-09-29",
+  "data": "src/synthetic.py \u2014 Faker names, O*NET 30.3 job titles",
+  "people": 442,
+  "real_people": 0,
+  "model": "claude-sonnet-5",
+  "prompt_version": "config-e",
+  "source": "project",
+  "tau": 0.45888227224349976,
+  "uncached_titles": 384
+}

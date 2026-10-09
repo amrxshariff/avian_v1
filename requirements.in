@@ -1,0 +1,31 @@
+# Runtime dependencies: what the deployed app installs. Direct dependencies only,
+# pinned to the versions the test suite passes against. Hand-edited.
+#
+# requirements.txt is GENERATED from this file. Do not edit it by hand.
+# After changing this file, regenerate both locks from the repo root:
+#
+#   uv pip compile requirements.in --universal --python-version 3.11 -o requirements.txt
+#   uv pip compile requirements-dev.in --universal --python-version 3.11 -o requirements-dev.txt
+#
+# Membership is derived from the code, not from memory:
+#   python -m tools.import_closure app src.linkedin src.ingestion src.classify_pipeline src.embeddings src.projection_3d src.graph src.centrality
+# tests/test_runtime_imports.py fails if the build chain loads a dev-only package.
+
+anthropic==0.42.0
+networkx==3.4.2
+numpy==1.26.4
+pandas==2.2.3
+plotly==6.9.0
+# Not imported directly (streamlit needs it). Pinned below 25 because Community
+# Cloud replaces pyarrow 25.0.0 with <25 at deploy (known segfault,
+# apache/arrow#50471), so the lock now matches what actually runs (D-52).
+pyarrow==24.0.0
+scikit-learn==1.5.2
+sentence-transformers==3.3.1
+streamlit==1.41.1
+# 0.4.0, not 1.0.0: 1.0.0 imports streamlit.components.v2, absent from streamlit 1.41.1.
+streamlit-keyup==0.4.0
+# Not imported directly (sentence-transformers needs it); pinned by name because it
+# is the heaviest dependency and its wheel choice is the P2.9b resource spike's subject.
+torch==2.13.0
+umap-learn==0.5.7
