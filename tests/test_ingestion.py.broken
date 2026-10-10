@@ -1,0 +1,17 @@
+from src.ingestion import load_text, parse_rows
+
+
+def test_load_text_reads_file(tmp_path):
+    p = tmp_path / "sample.txt"
+    p.write_text("line1\nline2")
+    content = load_text(str(p))
+    assert "line1" in content
+
+
+def test_parse_rows_splits_nonempty_lines():
+    text = "a\n\n b \n"
+    rows = parse_rows(text)
+    assert isinstance(rows, list)
+    # ensure blank lines are ignored and non-empty lines are present
+    assert any(r.get("raw") and r.get("raw").strip() == "a" for r in rows)
+    assert any(r.get("raw") and r.get("raw").strip() == "b" for r in rows)

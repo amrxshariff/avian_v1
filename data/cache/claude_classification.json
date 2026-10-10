@@ -1,0 +1,1897 @@
+{
+ "actuarial intern||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "actuarial function despite intern"
+ },
+ "acupuncture physician||": {
+  "confidence": "high",
+  "soc": "29",
+  "why": "physician is healthcare practitioner"
+ },
+ "addictions counselor assistant||": {
+  "confidence": "medium",
+  "soc": "21",
+  "why": "counselor assistant is social service"
+ },
+ "administrative resources associate||": {
+  "confidence": "medium",
+  "soc": "43",
+  "why": "administrative support role"
+ },
+ "administrator pastor||": {
+  "confidence": "medium",
+  "soc": "21",
+  "why": "pastor is a clergy/community service role"
+ },
+ "adoption worker||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "adoption social service work"
+ },
+ "advisor emea||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "advisor alone, no function"
+ },
+ "aids social worker coach speaker||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "social worker function"
+ },
+ "airline pilot||": {
+  "confidence": "high",
+  "soc": "53",
+  "why": "airline pilot is transportation occupation"
+ },
+ "algorithm engineer||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "algorithm/software engineering"
+ },
+ "analyst client side||": {
+  "confidence": "low",
+  "soc": "13",
+  "why": "analyst, business function"
+ },
+ "animal surgeon||": {
+  "confidence": "high",
+  "soc": "29",
+  "why": "veterinary surgeon is healthcare practitioner"
+ },
+ "apartment leasing agent||": {
+  "confidence": "high",
+  "soc": "41",
+  "why": "leasing sales agent"
+ },
+ "appeals examiner||": {
+  "confidence": "medium",
+  "soc": "13",
+  "why": "claims/appeals examiner, business ops"
+ },
+ "arbitrator||": {
+  "confidence": "high",
+  "soc": "23",
+  "why": "arbitrator is a legal function"
+ },
+ "aspiring data analyst||": {
+  "confidence": "medium",
+  "soc": "15",
+  "why": "data analyst function remains"
+ },
+ "aspiring solicitor||": {
+  "confidence": "high",
+  "soc": "23",
+  "why": "solicitor is legal profession"
+ },
+ "associate consultant client side||": {
+  "confidence": "medium",
+  "soc": "13",
+  "why": "business consulting role"
+ },
+ "associate director uk||": {
+  "confidence": "high",
+  "soc": "11",
+  "why": "associate director, management"
+ },
+ "associate europe||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "associate names no function"
+ },
+ "associate london||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "no occupational noun"
+ },
+ "associate uk||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "no occupational function named"
+ },
+ "auto service station attendant||": {
+  "confidence": "medium",
+  "soc": "53",
+  "why": "service station attendant, transportation support"
+ },
+ "avionics electronics technician||": {
+  "confidence": "high",
+  "soc": "49",
+  "why": "electronics repair technician"
+ },
+ "back order clerk||": {
+  "confidence": "high",
+  "soc": "43",
+  "why": "clerk is administrative support role"
+ },
+ "background specialist||": {
+  "confidence": "low",
+  "soc": "43",
+  "why": "background check specialist role"
+ },
+ "barge loader||": {
+  "confidence": "medium",
+  "soc": "53",
+  "why": "loading barge is material moving"
+ },
+ "base remover||": {
+  "confidence": "low",
+  "soc": "51",
+  "why": "production task"
+ },
+ "behavioral health counselor||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "behavioral health counselor"
+ },
+ "bicycle rental clerk coach advisor||": {
+  "confidence": "medium",
+  "soc": "43",
+  "why": "rental clerk, admin support"
+ },
+ "billet cutter||": {
+  "confidence": "medium",
+  "soc": "51",
+  "why": "metal cutting production job"
+ },
+ "billing clerk||": {
+  "confidence": "high",
+  "soc": "43",
+  "why": "office billing clerk"
+ },
+ "black topper||": {
+  "confidence": "medium",
+  "soc": "47",
+  "why": "road paving is construction work"
+ },
+ "blueprint reader||": {
+  "confidence": "low",
+  "soc": "17",
+  "why": "reading blueprints relates to drafting"
+ },
+ "books salesperson||": {
+  "confidence": "high",
+  "soc": "41",
+  "why": "salesperson selling books"
+ },
+ "box car washer||": {
+  "confidence": "low",
+  "soc": "53",
+  "why": "vehicle cleaning/service attendant"
+ },
+ "breakdown person||": {
+  "confidence": "low",
+  "soc": "51",
+  "why": "meat processing production job"
+ },
+ "broker associate||": {
+  "confidence": "high",
+  "soc": "41",
+  "why": "broker associate sells real estate"
+ },
+ "buffet attendant||": {
+  "confidence": "high",
+  "soc": "35",
+  "why": "buffet attendant is food service"
+ },
+ "building something new hiring||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "generic hiring phrase, no occupation"
+ },
+ "bulk loader||": {
+  "confidence": "medium",
+  "soc": "53",
+  "why": "bulk loader moves materials"
+ },
+ "bundle tier investor||": {
+  "confidence": "low",
+  "soc": null,
+  "why": "unclear occupational meaning"
+ },
+ "bus assistant||": {
+  "confidence": "low",
+  "soc": "53",
+  "why": "bus assistant, transportation aide"
+ },
+ "cable way operator||": {
+  "confidence": "medium",
+  "soc": "53",
+  "why": "operates cableway, transportation function"
+ },
+ "cager operator||": {
+  "confidence": "medium",
+  "soc": "51",
+  "why": "cager operator is production role"
+ },
+ "cake icer||": {
+  "confidence": "medium",
+  "soc": "51",
+  "why": "cake icer is production/baking role"
+ },
+ "campus ministries director||": {
+  "confidence": "medium",
+  "soc": "21",
+  "why": "clergy/ministry role"
+ },
+ "car dumper operator||": {
+  "confidence": "high",
+  "soc": "53",
+  "why": "equipment operator, material moving"
+ },
+ "car mover||": {
+  "confidence": "high",
+  "soc": "53",
+  "why": "car mover is transportation function"
+ },
+ "career break||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "no occupational function"
+ },
+ "case supervisor||": {
+  "confidence": "low",
+  "soc": "21",
+  "why": "case supervisor likely social service role"
+ },
+ "casino cashier||": {
+  "confidence": "medium",
+  "soc": "41",
+  "why": "casino cashier is sales/cage worker"
+ },
+ "caster||": {
+  "confidence": "medium",
+  "soc": "51",
+  "why": "caster is a production/metalworking job"
+ },
+ "certified document imaging architect||": {
+  "confidence": "medium",
+  "soc": "15",
+  "why": "document imaging is IT function"
+ },
+ "certified rehabilitation counselor||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "rehabilitation counselor role"
+ },
+ "chain maker||": {
+  "confidence": "high",
+  "soc": "51",
+  "why": "chain making is production work"
+ },
+ "char puller||": {
+  "confidence": "low",
+  "soc": "51",
+  "why": "unclear production-related title"
+ },
+ "charter driver||": {
+  "confidence": "high",
+  "soc": "53",
+  "why": "driver, transportation function"
+ },
+ "charwoman||": {
+  "confidence": "high",
+  "soc": "37",
+  "why": "cleaner role"
+ },
+ "cheese weigher||": {
+  "confidence": "medium",
+  "soc": "51",
+  "why": "production weighing task"
+ },
+ "chemical technician||": {
+  "confidence": "high",
+  "soc": "19",
+  "why": "chemical technician, science"
+ },
+ "child family counselor author coach||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "counselor is community/social service"
+ },
+ "child welfare worker volunteer||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "child welfare worker is social service"
+ },
+ "church worker||": {
+  "confidence": "low",
+  "soc": "21",
+  "why": "church worker as community/religious role"
+ },
+ "clinical biostatistics director||": {
+  "confidence": "medium",
+  "soc": "15",
+  "why": "biostatistics is mathematical science function"
+ },
+ "clinical quality auditor||": {
+  "confidence": "low",
+  "soc": "13",
+  "why": "quality auditor is business function"
+ },
+ "clothing consultant||": {
+  "confidence": "high",
+  "soc": "41",
+  "why": "clothing sales role"
+ },
+ "coal hauler||": {
+  "confidence": "high",
+  "soc": "53",
+  "why": "hauling coal is material moving"
+ },
+ "codebase engineer||": {
+  "confidence": "medium",
+  "soc": "15",
+  "why": "engineer working on codebase, software"
+ },
+ "coder||": {
+  "confidence": "low",
+  "soc": null,
+  "why": "ambiguous coder function, unclear domain"
+ },
+ "coin machine sales representative||": {
+  "confidence": "high",
+  "soc": "41",
+  "why": "sales representative role"
+ },
+ "communications analyst||": {
+  "confidence": "low",
+  "soc": "13",
+  "why": "business communications analyst"
+ },
+ "community health consultant||": {
+  "confidence": "medium",
+  "soc": "21",
+  "why": "community health role, social service"
+ },
+ "community health promoter board member||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "community health promoter role"
+ },
+ "community nutrition advisor||": {
+  "confidence": "medium",
+  "soc": "29",
+  "why": "nutrition advisor, healthcare practitioner"
+ },
+ "compressor technician||": {
+  "confidence": "high",
+  "soc": "49",
+  "why": "technician repairs equipment"
+ },
+ "computer game designer||": {
+  "confidence": "high",
+  "soc": "27",
+  "why": "game designer is creative/design role"
+ },
+ "computer graphic artist||": {
+  "confidence": "high",
+  "soc": "27",
+  "why": "graphic artist, design function"
+ },
+ "computer programmer||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "programmer is computer occupation"
+ },
+ "computer systems specialist volunteer board member||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "computer systems specialist"
+ },
+ "configuration manager||": {
+  "confidence": "medium",
+  "soc": "15",
+  "why": "configuration management, IT function"
+ },
+ "consultant uk||": {
+  "confidence": "low",
+  "soc": null,
+  "why": "no field specified"
+ },
+ "container filler||": {
+  "confidence": "high",
+  "soc": "51",
+  "why": "production filling role"
+ },
+ "conveyer technician||": {
+  "confidence": "medium",
+  "soc": "49",
+  "why": "conveyor maintenance technician"
+ },
+ "conveyor system operator||": {
+  "confidence": "high",
+  "soc": "51",
+  "why": "machine operator role"
+ },
+ "corrections specialist||": {
+  "confidence": "high",
+  "soc": "33",
+  "why": "corrections specialist is protective service"
+ },
+ "cotton ball bagger||": {
+  "confidence": "high",
+  "soc": "51",
+  "why": "bagging is production work"
+ },
+ "counter checker||": {
+  "confidence": "low",
+  "soc": "51",
+  "why": "checker role suggests production inspection"
+ },
+ "cupola hoist operator board member investor||": {
+  "confidence": "low",
+  "soc": "51",
+  "why": "hoist operator, production"
+ },
+ "customer service clerk||": {
+  "confidence": "high",
+  "soc": "43",
+  "why": "clerk is office/admin support"
+ },
+ "customer support analyst||": {
+  "confidence": "low",
+  "soc": "15",
+  "why": "likely IT/tech support analyst"
+ },
+ "cyber digital forensics||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "digital forensics, computer field"
+ },
+ "cyber security specialist||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "cyber security specialist"
+ },
+ "data analytics specialist||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "data analytics is computer/math function"
+ },
+ "dental officer||": {
+  "confidence": "high",
+  "soc": "29",
+  "why": "dentist/healthcare practitioner"
+ },
+ "design assembler||": {
+  "confidence": "medium",
+  "soc": "51",
+  "why": "design assembler is production job"
+ },
+ "designer||": {
+  "confidence": "medium",
+  "soc": "17",
+  "why": "principal designer, construction/engineering role"
+ },
+ "desk attendant||": {
+  "confidence": "low",
+  "soc": "39",
+  "why": "desk attendant, personal care service"
+ },
+ "dining room attendant||": {
+  "confidence": "high",
+  "soc": "35",
+  "why": "food service attendant"
+ },
+ "director||": {
+  "confidence": "medium",
+  "soc": "11",
+  "why": "director names management function"
+ },
+ "disability coordinator||": {
+  "confidence": "medium",
+  "soc": "21",
+  "why": "disability coordinator, social service"
+ },
+ "divine healer||": {
+  "confidence": "low",
+  "soc": "39",
+  "why": "healer suggests personal care service"
+ },
+ "domestic violence counselor||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "counselor is social service function"
+ },
+ "dope worker||": {
+  "confidence": "low",
+  "soc": "51",
+  "why": "production/manufacturing role"
+ },
+ "driver supervisor||": {
+  "confidence": "medium",
+  "soc": "53",
+  "why": "driver supervisor, transportation role"
+ },
+ "drone software development engineer||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "software development engineer"
+ },
+ "drug abuse social worker||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "social worker function"
+ },
+ "early breastfeeding care specialist||": {
+  "confidence": "medium",
+  "soc": "29",
+  "why": "lactation healthcare specialist"
+ },
+ "edging machine feeder||": {
+  "confidence": "medium",
+  "soc": "51",
+  "why": "machine feeding is production function"
+ },
+ "electroplating sales representative speaker||": {
+  "confidence": "high",
+  "soc": "41",
+  "why": "sales representative role"
+ },
+ "elementary school counselor||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "school counselor role"
+ },
+ "employment appeals examiner||": {
+  "confidence": "low",
+  "soc": "23",
+  "why": "appeals adjudication role"
+ },
+ "enterprise architect||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "enterprise IT architecture"
+ },
+ "entrepreneur kelly labs||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "entrepreneur names no function"
+ },
+ "environmental lawyer investor board member||": {
+  "confidence": "high",
+  "soc": "23",
+  "why": "environmental lawyer function"
+ },
+ "equities trader||": {
+  "confidence": "high",
+  "soc": "41",
+  "why": "securities/financial sales agent"
+ },
+ "escort vehicle driver||": {
+  "confidence": "medium",
+  "soc": "53",
+  "why": "vehicle driver, transportation"
+ },
+ "event member||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "generic staff membership, no occupation"
+ },
+ "executive director uk||": {
+  "confidence": "high",
+  "soc": "11",
+  "why": "executive director, management"
+ },
+ "executive director||": {
+  "confidence": "high",
+  "soc": "11",
+  "why": "executive director is management"
+ },
+ "eye physician||": {
+  "confidence": "high",
+  "soc": "29",
+  "why": "physician is healthcare practitioner"
+ },
+ "family caseworker||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "casework is social service"
+ },
+ "family physician assistant||": {
+  "confidence": "high",
+  "soc": "29",
+  "why": "healthcare practitioner support role"
+ },
+ "family service assistant||": {
+  "confidence": "medium",
+  "soc": "21",
+  "why": "family service assistant"
+ },
+ "ferryboat operator helper||": {
+  "confidence": "high",
+  "soc": "53",
+  "why": "ferry operator helper, transportation"
+ },
+ "fertilizer loader||": {
+  "confidence": "medium",
+  "soc": "53",
+  "why": "loading materials is material moving"
+ },
+ "field marketing representative||": {
+  "confidence": "medium",
+  "soc": "41",
+  "why": "field marketing rep sells/promotes"
+ },
+ "field sales consultant||": {
+  "confidence": "high",
+  "soc": "41",
+  "why": "sales consultant role"
+ },
+ "fire systems inspector||": {
+  "confidence": "high",
+  "soc": "33",
+  "why": "fire inspector, protective service"
+ },
+ "fish packer||": {
+  "confidence": "high",
+  "soc": "51",
+  "why": "fish packer is production occupation"
+ },
+ "flatbed truck driver||": {
+  "confidence": "high",
+  "soc": "53",
+  "why": "truck driver, transportation"
+ },
+ "float pharmacist||": {
+  "confidence": "high",
+  "soc": "29",
+  "why": "pharmacist is healthcare practitioner"
+ },
+ "food handler||": {
+  "confidence": "high",
+  "soc": "35",
+  "why": "food handler works in food service"
+ },
+ "food service assistant||": {
+  "confidence": "high",
+  "soc": "35",
+  "why": "food service function"
+ },
+ "foster care social worker||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "foster care social worker role"
+ },
+ "founder walker labs||": {
+  "confidence": "high",
+  "soc": "11",
+  "why": "founder is management role"
+ },
+ "founding team building in public||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "no occupational noun, just team membership"
+ },
+ "freelance nelson labs||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "freelance with no occupation named"
+ },
+ "freezer unloader||": {
+  "confidence": "medium",
+  "soc": "53",
+  "why": "material handling, freight mover"
+ },
+ "freezer worker||": {
+  "confidence": "low",
+  "soc": "51",
+  "why": "food processing production worker"
+ },
+ "furniture packer||": {
+  "confidence": "medium",
+  "soc": "53",
+  "why": "packaging/material handling"
+ },
+ "game mathematician||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "mathematics/computational role"
+ },
+ "gas compressor operator||": {
+  "confidence": "medium",
+  "soc": "51",
+  "why": "gas compressor operator is production job"
+ },
+ "gas transfer operator||": {
+  "confidence": "medium",
+  "soc": "51",
+  "why": "gas plant operator function"
+ },
+ "generator mechanic||": {
+  "confidence": "high",
+  "soc": "49",
+  "why": "mechanic repairs generators"
+ },
+ "genomics scientist||": {
+  "confidence": "high",
+  "soc": "19",
+  "why": "genomics scientist is life science"
+ },
+ "geometer||": {
+  "confidence": "low",
+  "soc": "17",
+  "why": "geometer likely surveyor"
+ },
+ "ground host mentor author||": {
+  "confidence": "low",
+  "soc": "39",
+  "why": "airport host/personal service"
+ },
+ "groundsman||": {
+  "confidence": "high",
+  "soc": "37",
+  "why": "groundskeeping role"
+ },
+ "group head london||": {
+  "confidence": "medium",
+  "soc": "11",
+  "why": "group head is management role"
+ },
+ "group head||": {
+  "confidence": "high",
+  "soc": "11",
+  "why": "management head role"
+ },
+ "group home worker speaker volunteer||": {
+  "confidence": "medium",
+  "soc": "21",
+  "why": "group home worker, social service"
+ },
+ "group home worker||": {
+  "confidence": "low",
+  "soc": "21",
+  "why": "group home social service worker"
+ },
+ "guest advocate||": {
+  "confidence": "medium",
+  "soc": "41",
+  "why": "guest advocate is retail sales role"
+ },
+ "head department emea||": {
+  "confidence": "medium",
+  "soc": "11",
+  "why": "head of department is management"
+ },
+ "health advocate||": {
+  "confidence": "medium",
+  "soc": "21",
+  "why": "advocate role, community/social service"
+ },
+ "health informatics solutions coordinator||": {
+  "confidence": "medium",
+  "soc": "15",
+  "why": "health informatics is computer-related field"
+ },
+ "health navigator||": {
+  "confidence": "medium",
+  "soc": "21",
+  "why": "health navigator, community health role"
+ },
+ "health officer||": {
+  "confidence": "low",
+  "soc": "21",
+  "why": "public health officer, community role"
+ },
+ "healthcare educator||": {
+  "confidence": "medium",
+  "soc": "21",
+  "why": "health educator, community service"
+ },
+ "high lift mule operator||": {
+  "confidence": "medium",
+  "soc": "53",
+  "why": "equipment operator, material moving"
+ },
+ "high school counselor||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "school guidance counselor"
+ },
+ "hiv counselor||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "counselor, social service role"
+ },
+ "home mission worker||": {
+  "confidence": "medium",
+  "soc": "21",
+  "why": "mission worker, community service function"
+ },
+ "hoop coiler||": {
+  "confidence": "medium",
+  "soc": "51",
+  "why": "production line role"
+ },
+ "hose tubing backer mentor advisor||": {
+  "confidence": "low",
+  "soc": "51",
+  "why": "hose tubing backer production job"
+ },
+ "hospice chaplain||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "chaplain is clergy/community service"
+ },
+ "hospice social worker||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "social work function"
+ },
+ "hot box checker||": {
+  "confidence": "low",
+  "soc": "51",
+  "why": "hot box checker, production quality role"
+ },
+ "hotel housekeeping supervisor||": {
+  "confidence": "medium",
+  "soc": "37",
+  "why": "housekeeping supervisor is cleaning trade"
+ },
+ "housing assistant||": {
+  "confidence": "medium",
+  "soc": "43",
+  "why": "administrative housing support"
+ },
+ "hydrologist||": {
+  "confidence": "high",
+  "soc": "19",
+  "why": "hydrologist is earth science occupation"
+ },
+ "implementation specialist||": {
+  "confidence": "low",
+  "soc": "15",
+  "why": "implementation specialist, likely tech"
+ },
+ "in flight crew member||": {
+  "confidence": "high",
+  "soc": "39",
+  "why": "flight attendant is personal service"
+ },
+ "in room dining server||": {
+  "confidence": "high",
+  "soc": "35",
+  "why": "dining server is food service role"
+ },
+ "independent distributor||": {
+  "confidence": "high",
+  "soc": "41",
+  "why": "distributor, sales function"
+ },
+ "industrial painter author||": {
+  "confidence": "medium",
+  "soc": "51",
+  "why": "industrial painter is production trade"
+ },
+ "infirmarian||": {
+  "confidence": "low",
+  "soc": "31",
+  "why": "infirmary caretaker role"
+ },
+ "influencer||": {
+  "confidence": "medium",
+  "soc": "27",
+  "why": "media/entertainment content creator"
+ },
+ "informal waitress||": {
+  "confidence": "high",
+  "soc": "35",
+  "why": "waitress is food service"
+ },
+ "information architect||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "IT/UX architecture role"
+ },
+ "information security officer||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "information security is computer field"
+ },
+ "inside trucker||": {
+  "confidence": "medium",
+  "soc": "53",
+  "why": "trucker, transportation function"
+ },
+ "internet developer||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "web/internet development"
+ },
+ "interventional radiology physician||": {
+  "confidence": "high",
+  "soc": "29",
+  "why": "radiology physician is healthcare practitioner"
+ },
+ "interventionist||": {
+  "confidence": "medium",
+  "soc": "21",
+  "why": "intervention specialist, social service"
+ },
+ "jquery developer||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "developer is computer occupation"
+ },
+ "juice standardizer||": {
+  "confidence": "low",
+  "soc": "51",
+  "why": "production/processing role"
+ },
+ "kitchen crew||": {
+  "confidence": "high",
+  "soc": "35",
+  "why": "kitchen crew is food prep"
+ },
+ "kitchen help handyman||": {
+  "confidence": "low",
+  "soc": "49",
+  "why": "handyman, maintenance role"
+ },
+ "land use planner||": {
+  "confidence": "high",
+  "soc": "19",
+  "why": "urban/land use planner is social science"
+ },
+ "lay midwife||": {
+  "confidence": "high",
+  "soc": "29",
+  "why": "midwife is healthcare practitioner"
+ },
+ "leasing associate investor volunteer||": {
+  "confidence": "medium",
+  "soc": "41",
+  "why": "leasing associate is sales-related"
+ },
+ "leather roller volunteer||": {
+  "confidence": "medium",
+  "soc": "51",
+  "why": "leather production role"
+ },
+ "line clearance trimmer||": {
+  "confidence": "high",
+  "soc": "37",
+  "why": "tree trimming near lines"
+ },
+ "line feeder||": {
+  "confidence": "medium",
+  "soc": "51",
+  "why": "line feeding is production function"
+ },
+ "local driver||": {
+  "confidence": "high",
+  "soc": "53",
+  "why": "driver, transportation function"
+ },
+ "lock dam operator||": {
+  "confidence": "high",
+  "soc": "53",
+  "why": "lock/dam tender, transportation"
+ },
+ "locomotive fireman||": {
+  "confidence": "high",
+  "soc": "53",
+  "why": "railroad transportation role"
+ },
+ "locomotive lubricating systems clerk||": {
+  "confidence": "medium",
+  "soc": "43",
+  "why": "clerk role, office support"
+ },
+ "log pond worker advisor coach||": {
+  "confidence": "medium",
+  "soc": "45",
+  "why": "log pond worker, forestry function"
+ },
+ "magazine grinder loader||": {
+  "confidence": "medium",
+  "soc": "51",
+  "why": "machine operator, production role"
+ },
+ "main line station engineer mentor||": {
+  "confidence": "low",
+  "soc": "49",
+  "why": "station equipment maintenance"
+ },
+ "mainframe systems programmer||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "programmer is computer occupation"
+ },
+ "maintenance custodian||": {
+  "confidence": "high",
+  "soc": "37",
+  "why": "building maintenance/cleaning"
+ },
+ "manager europe||": {
+  "confidence": "medium",
+  "soc": "11",
+  "why": "manager title implies management"
+ },
+ "manager london||": {
+  "confidence": "high",
+  "soc": "11",
+  "why": "manager is a management role"
+ },
+ "manager||": {
+  "confidence": "high",
+  "soc": "11",
+  "why": "senior manager, management"
+ },
+ "managing director||": {
+  "confidence": "high",
+  "soc": "11",
+  "why": "managing director is management"
+ },
+ "managing partner emea||": {
+  "confidence": "high",
+  "soc": "11",
+  "why": "managing partner is management role"
+ },
+ "managing partner uk||": {
+  "confidence": "high",
+  "soc": "11",
+  "why": "managing partner is management"
+ },
+ "manufacturer s representative||": {
+  "confidence": "high",
+  "soc": "41",
+  "why": "manufacturer's rep sells products"
+ },
+ "marine cargo specialist||": {
+  "confidence": "low",
+  "soc": "13",
+  "why": "marine cargo insurance specialist role"
+ },
+ "marriage family counselor||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "family counselor role"
+ },
+ "marriage family teacher advisor speaker||": {
+  "confidence": "medium",
+  "soc": "25",
+  "why": "teacher is instructional role"
+ },
+ "material carrier||": {
+  "confidence": "high",
+  "soc": "53",
+  "why": "material carrier moves goods"
+ },
+ "mathematics student||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "student, field of study only"
+ },
+ "meat hostess||": {
+  "confidence": "low",
+  "soc": "41",
+  "why": "hostess/demonstrator, sales related"
+ },
+ "medicaid eligibility advisor||": {
+  "confidence": "medium",
+  "soc": "43",
+  "why": "eligibility interviewer role"
+ },
+ "medical aides teacher||": {
+  "confidence": "medium",
+  "soc": "25",
+  "why": "teacher role is educational instruction"
+ },
+ "medical case worker||": {
+  "confidence": "medium",
+  "soc": "21",
+  "why": "case worker, social service"
+ },
+ "medical social worker||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "medical social worker"
+ },
+ "mending carrier||": {
+  "confidence": "low",
+  "soc": null,
+  "why": "ambiguous title, no clear occupation"
+ },
+ "mental health advocate||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "mental health advocacy"
+ },
+ "merchandise flow team member||": {
+  "confidence": "low",
+  "soc": "43",
+  "why": "stock clerk, retail merchandising"
+ },
+ "minister helper||": {
+  "confidence": "low",
+  "soc": "21",
+  "why": "assisting minister, community service"
+ },
+ "ministries director||": {
+  "confidence": "low",
+  "soc": "11",
+  "why": "director role, ambiguous religious context"
+ },
+ "mobile radio technician||": {
+  "confidence": "high",
+  "soc": "49",
+  "why": "technician repair role"
+ },
+ "msc english student||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "student status only, no job"
+ },
+ "msc geography student||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "student only, no occupation"
+ },
+ "msc sociology student||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "student only, no occupation"
+ },
+ "multimedia telecommunications systems integrator||": {
+  "confidence": "low",
+  "soc": "17",
+  "why": "systems integration suggests engineering role"
+ },
+ "museum informatics specialist||": {
+  "confidence": "low",
+  "soc": "25",
+  "why": "museum informatics relates to library/education field"
+ },
+ "music ministries director||": {
+  "confidence": "medium",
+  "soc": "21",
+  "why": "religious activities director"
+ },
+ "nail feeder investor||": {
+  "confidence": "low",
+  "soc": "51",
+  "why": "nail feeder production job"
+ },
+ "network designer||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "network design is computing function"
+ },
+ "network operations project manager||": {
+  "confidence": "low",
+  "soc": "11",
+  "why": "project manager, management function"
+ },
+ "network support administrator||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "network support is computer function"
+ },
+ "network systems engineer||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "network systems engineer is computer occupation"
+ },
+ "newspaper subscription solicitor||": {
+  "confidence": "medium",
+  "soc": "41",
+  "why": "solicitor here means salesperson"
+ },
+ "non invasive cardiologist||": {
+  "confidence": "high",
+  "soc": "29",
+  "why": "cardiologist, healthcare practitioner"
+ },
+ "nurse educator||": {
+  "confidence": "low",
+  "soc": "25",
+  "why": "teaches nursing, education role"
+ },
+ "obstetrical nurse||": {
+  "confidence": "high",
+  "soc": "29",
+  "why": "nurse is healthcare practitioner"
+ },
+ "open to work||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "no occupational function"
+ },
+ "operations open to work||": {
+  "confidence": "low",
+  "soc": null,
+  "why": "vague operations, no function"
+ },
+ "orthopedic physician||": {
+  "confidence": "high",
+  "soc": "29",
+  "why": "physician, healthcare practitioner"
+ },
+ "orthotic fitter coach investor||": {
+  "confidence": "medium",
+  "soc": "29",
+  "why": "orthotic fitter is healthcare technical"
+ },
+ "outpatient counselor||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "counselor, social service function"
+ },
+ "outreach specialist||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "outreach specialist, community service"
+ },
+ "owner building in public||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "vague, no clear occupation"
+ },
+ "package supervisor||": {
+  "confidence": "low",
+  "soc": "51",
+  "why": "production supervisor"
+ },
+ "packing line operator||": {
+  "confidence": "high",
+  "soc": "51",
+  "why": "packing line operator, production"
+ },
+ "park worker advisor||": {
+  "confidence": "low",
+  "soc": "37",
+  "why": "park worker, grounds maintenance"
+ },
+ "parking lot supervisor||": {
+  "confidence": "medium",
+  "soc": "53",
+  "why": "parking lot roles are transportation related"
+ },
+ "partner europe||": {
+  "confidence": "high",
+  "soc": "11",
+  "why": "partner denotes management position"
+ },
+ "passenger locomotive engineer||": {
+  "confidence": "high",
+  "soc": "53",
+  "why": "locomotive engineer operates trains"
+ },
+ "pastoral associate||": {
+  "confidence": "low",
+  "soc": "21",
+  "why": "pastoral care/counseling role"
+ },
+ "pastry cook||": {
+  "confidence": "high",
+  "soc": "35",
+  "why": "pastry cook, food prep"
+ },
+ "patient advocate||": {
+  "confidence": "medium",
+  "soc": "21",
+  "why": "patient advocate, social service function"
+ },
+ "people officer||": {
+  "confidence": "medium",
+  "soc": "13",
+  "why": "HR-related officer role"
+ },
+ "pet feeder||": {
+  "confidence": "medium",
+  "soc": "39",
+  "why": "animal caretaking service"
+ },
+ "photo booth operator||": {
+  "confidence": "low",
+  "soc": "39",
+  "why": "entertainment/personal service operator"
+ },
+ "pipeline technician||": {
+  "confidence": "medium",
+  "soc": "49",
+  "why": "pipeline maintenance technician"
+ },
+ "platform material handler manager||": {
+  "confidence": "medium",
+  "soc": "11",
+  "why": "manager title, management"
+ },
+ "platform software engineer||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "software engineer role"
+ },
+ "position classification specialist||": {
+  "confidence": "medium",
+  "soc": "13",
+  "why": "HR classification specialist"
+ },
+ "postulant||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "religious novice, no occupation"
+ },
+ "pouring crane operator||": {
+  "confidence": "high",
+  "soc": "53",
+  "why": "crane operator moves materials"
+ },
+ "power ballast machine operator||": {
+  "confidence": "high",
+  "soc": "51",
+  "why": "machine operator, production"
+ },
+ "press bucker||": {
+  "confidence": "low",
+  "soc": "51",
+  "why": "press bucker, production role"
+ },
+ "press washer||": {
+  "confidence": "low",
+  "soc": "51",
+  "why": "press washer, production role"
+ },
+ "pricing actuary||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "actuary is mathematical occupation"
+ },
+ "probation agent||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "probation officer role"
+ },
+ "probation patrol agent||": {
+  "confidence": "high",
+  "soc": "33",
+  "why": "probation/patrol, protective service"
+ },
+ "produce associate||": {
+  "confidence": "medium",
+  "soc": "41",
+  "why": "retail sales associate"
+ },
+ "produce department manager||": {
+  "confidence": "medium",
+  "soc": "11",
+  "why": "department manager role"
+ },
+ "product development actuary||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "actuary is math occupation"
+ },
+ "professional client side||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "no occupational noun"
+ },
+ "professional emea||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "no occupational function named"
+ },
+ "program support specialist||": {
+  "confidence": "medium",
+  "soc": "43",
+  "why": "program support, admin function"
+ },
+ "proofer||": {
+  "confidence": "low",
+  "soc": "51",
+  "why": "proofer, production/baking function"
+ },
+ "property worker||": {
+  "confidence": "low",
+  "soc": "37",
+  "why": "property worker, maintenance-related"
+ },
+ "psychiatric social worker||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "social worker role"
+ },
+ "psychology||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "graduate strips to field, no occupation"
+ },
+ "public health informatician||": {
+  "confidence": "low",
+  "soc": "29",
+  "why": "health information specialist role"
+ },
+ "public health officer||": {
+  "confidence": "low",
+  "soc": "21",
+  "why": "public health officer, community service"
+ },
+ "rack carrier||": {
+  "confidence": "medium",
+  "soc": "53",
+  "why": "carrier moves material, transportation role"
+ },
+ "radiator mechanic||": {
+  "confidence": "high",
+  "soc": "49",
+  "why": "mechanic, repair trade"
+ },
+ "radio maintainer||": {
+  "confidence": "high",
+  "soc": "49",
+  "why": "maintainer repairs equipment"
+ },
+ "railroad brakeman||": {
+  "confidence": "high",
+  "soc": "53",
+  "why": "brakeman, transportation role"
+ },
+ "reach truck operator||": {
+  "confidence": "high",
+  "soc": "53",
+  "why": "equipment operator, material moving"
+ },
+ "real estate broker||": {
+  "confidence": "high",
+  "soc": "41",
+  "why": "real estate broker sells property"
+ },
+ "recreational therapist||": {
+  "confidence": "high",
+  "soc": "29",
+  "why": "recreational therapist is healthcare practitioner"
+ },
+ "recycling supervisor||": {
+  "confidence": "low",
+  "soc": "53",
+  "why": "recycling supervisor oversees material handling"
+ },
+ "refuse driver||": {
+  "confidence": "high",
+  "soc": "53",
+  "why": "driver, transportation function"
+ },
+ "research computing specialist||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "computing research function"
+ },
+ "research scientist||": {
+  "confidence": "high",
+  "soc": "19",
+  "why": "research scientist role"
+ },
+ "reserving actuary||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "actuary, mathematical occupation"
+ },
+ "retail store manager||": {
+  "confidence": "high",
+  "soc": "11",
+  "why": "store manager is management role"
+ },
+ "rigging worker||": {
+  "confidence": "high",
+  "soc": "47",
+  "why": "rigging worker is construction trade"
+ },
+ "roller picker||": {
+  "confidence": "medium",
+  "soc": "53",
+  "why": "roller picker, material moving role"
+ },
+ "room server||": {
+  "confidence": "medium",
+  "soc": "35",
+  "why": "room server, food service function"
+ },
+ "safety equipment sales representative coach mentor||": {
+  "confidence": "high",
+  "soc": "41",
+  "why": "sales representative role"
+ },
+ "salt lifter||": {
+  "confidence": "low",
+  "soc": "53",
+  "why": "material lifting/moving role"
+ },
+ "school equipment sales representative||": {
+  "confidence": "high",
+  "soc": "41",
+  "why": "sales representative role"
+ },
+ "school guidance counselor||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "guidance counselor is community/social service"
+ },
+ "scrap iron loader||": {
+  "confidence": "medium",
+  "soc": "53",
+  "why": "material loading job"
+ },
+ "security assessment tester||": {
+  "confidence": "medium",
+  "soc": "15",
+  "why": "security assessment tester is computing role"
+ },
+ "self employed||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "no occupational function named"
+ },
+ "septic tank service technician||": {
+  "confidence": "high",
+  "soc": "49",
+  "why": "technician repairing septic systems"
+ },
+ "service station helper||": {
+  "confidence": "low",
+  "soc": "53",
+  "why": "service station helper, transportation-related"
+ },
+ "settlement worker||": {
+  "confidence": "medium",
+  "soc": "21",
+  "why": "settlement worker aids community integration"
+ },
+ "shelter advocate||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "advocate for shelter, social service"
+ },
+ "ships loader||": {
+  "confidence": "high",
+  "soc": "53",
+  "why": "loading ships, material moving"
+ },
+ "shochet||": {
+  "confidence": "low",
+  "soc": "21",
+  "why": "religious ritual slaughterer role"
+ },
+ "shohet||": {
+  "confidence": "low",
+  "soc": "51",
+  "why": "ritual slaughterer, production occupation"
+ },
+ "shoreboat driver||": {
+  "confidence": "medium",
+  "soc": "53",
+  "why": "boat driver, transportation function"
+ },
+ "shot bagger||": {
+  "confidence": "medium",
+  "soc": "51",
+  "why": "bagging is production/packaging work"
+ },
+ "shuttle hand||": {
+  "confidence": "low",
+  "soc": "51",
+  "why": "manufacturing/production hand role"
+ },
+ "signs sales representative||": {
+  "confidence": "high",
+  "soc": "41",
+  "why": "sales representative role"
+ },
+ "silviculture forester||": {
+  "confidence": "high",
+  "soc": "45",
+  "why": "forester is forestry occupation"
+ },
+ "slicer||": {
+  "confidence": "medium",
+  "soc": "51",
+  "why": "production slicing role"
+ },
+ "slip bridge operator||": {
+  "confidence": "low",
+  "soc": "53",
+  "why": "operator of bridge equipment"
+ },
+ "snow removing supervisor||": {
+  "confidence": "medium",
+  "soc": "37",
+  "why": "snow removal supervisor"
+ },
+ "social insurance adviser||": {
+  "confidence": "low",
+  "soc": "13",
+  "why": "insurance advisory role"
+ },
+ "social worker aide||": {
+  "confidence": "medium",
+  "soc": "21",
+  "why": "social work support role"
+ },
+ "software requirements engineer||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "software engineering role"
+ },
+ "software test analyst||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "software testing, computer occupation"
+ },
+ "software test engineer||": {
+  "confidence": "high",
+  "soc": "15",
+  "why": "software test engineer is computer field"
+ },
+ "solar business developer||": {
+  "confidence": "medium",
+  "soc": "41",
+  "why": "business developer is sales function"
+ },
+ "solar sales specialist||": {
+  "confidence": "high",
+  "soc": "41",
+  "why": "sales specialist sells solar products"
+ },
+ "specialist contract||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "specialist alone names no function"
+ },
+ "specialist emea||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "no clear occupational noun"
+ },
+ "speech language specialist||": {
+  "confidence": "high",
+  "soc": "29",
+  "why": "speech-language specialist is healthcare practitioner"
+ },
+ "station detective||": {
+  "confidence": "high",
+  "soc": "33",
+  "why": "detective is protective service"
+ },
+ "stator plate washer||": {
+  "confidence": "low",
+  "soc": "51",
+  "why": "industrial cleaning task"
+ },
+ "stealth startup||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "no occupational noun"
+ },
+ "steam hoist operator||": {
+  "confidence": "low",
+  "soc": "47",
+  "why": "hoist operator, construction equipment"
+ },
+ "stone belt sander||": {
+  "confidence": "medium",
+  "soc": "51",
+  "why": "sanding machine operator, production"
+ },
+ "straddle truck driver||": {
+  "confidence": "high",
+  "soc": "53",
+  "why": "truck driver, transportation"
+ },
+ "street sprinkler mentor board member||": {
+  "confidence": "low",
+  "soc": "37",
+  "why": "street cleaning/sprinkling function"
+ },
+ "substance use disorder counselor||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "counselor, social service"
+ },
+ "substitute bus aide||": {
+  "confidence": "low",
+  "soc": "39",
+  "why": "bus aide, personal care/monitoring role"
+ },
+ "summer camp teacher||": {
+  "confidence": "high",
+  "soc": "25",
+  "why": "teacher, educational instruction"
+ },
+ "supervisor||": {
+  "confidence": "low",
+  "soc": null,
+  "why": "no function specified"
+ },
+ "switch maker||": {
+  "confidence": "high",
+  "soc": "51",
+  "why": "switch maker, production role"
+ },
+ "systems consultant||": {
+  "confidence": "medium",
+  "soc": "15",
+  "why": "systems consulting IT"
+ },
+ "tack cleaner||": {
+  "confidence": "low",
+  "soc": "51",
+  "why": "production cleaning task"
+ },
+ "take away man||": {
+  "confidence": "medium",
+  "soc": "35",
+  "why": "takeaway food service worker"
+ },
+ "take off worker||": {
+  "confidence": "low",
+  "soc": "13",
+  "why": "quantity takeoff, cost estimating"
+ },
+ "target man||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "no occupational meaning, sports term"
+ },
+ "technology project manager||": {
+  "confidence": "medium",
+  "soc": "11",
+  "why": "IT project management role"
+ },
+ "therapeutic assistant||": {
+  "confidence": "high",
+  "soc": "31",
+  "why": "therapeutic assistant is healthcare support"
+ },
+ "tie layer||": {
+  "confidence": "low",
+  "soc": "47",
+  "why": "tie layer, construction labor"
+ },
+ "timber framer helper||": {
+  "confidence": "high",
+  "soc": "47",
+  "why": "construction helper role"
+ },
+ "tipple tender||": {
+  "confidence": "medium",
+  "soc": "35",
+  "why": "tipple tender = bartender"
+ },
+ "transaction coordinator||": {
+  "confidence": "high",
+  "soc": "43",
+  "why": "transaction coordinator is office support role"
+ },
+ "transport pilot||": {
+  "confidence": "high",
+  "soc": "53",
+  "why": "pilot is transportation occupation"
+ },
+ "triage nurse coach||": {
+  "confidence": "high",
+  "soc": "29",
+  "why": "nursing/healthcare role"
+ },
+ "utility attendant||": {
+  "confidence": "low",
+  "soc": "37",
+  "why": "utility attendant, maintenance role"
+ },
+ "vehicle equipment cleaner||": {
+  "confidence": "medium",
+  "soc": "53",
+  "why": "vehicle cleaner classified under material moving"
+ },
+ "veterans rehabilitation counselor mentor coach||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "rehabilitation counselor is social service"
+ },
+ "vice president uk||": {
+  "confidence": "high",
+  "soc": "11",
+  "why": "executive management title"
+ },
+ "vice president||": {
+  "confidence": "high",
+  "soc": "11",
+  "why": "VP is executive management"
+ },
+ "vocational rehabilitation specialist||": {
+  "confidence": "high",
+  "soc": "21",
+  "why": "vocational rehab counseling"
+ },
+ "warp coiler||": {
+  "confidence": "high",
+  "soc": "51",
+  "why": "textile production role"
+ },
+ "warp worker author volunteer||": {
+  "confidence": "low",
+  "soc": "51",
+  "why": "warp worker is textile production role"
+ },
+ "wealth management associate||": {
+  "confidence": "high",
+  "soc": "13",
+  "why": "wealth management is finance function"
+ },
+ "web content manager||": {
+  "confidence": "low",
+  "soc": "27",
+  "why": "web content management is media role"
+ },
+ "weed thinner||": {
+  "confidence": "high",
+  "soc": "45",
+  "why": "weed thinner is farming work"
+ },
+ "welfare specialist||": {
+  "confidence": "medium",
+  "soc": "21",
+  "why": "welfare specialist, social service"
+ },
+ "wholesale account executive||": {
+  "confidence": "high",
+  "soc": "41",
+  "why": "account executive, sales role"
+ },
+ "woodyard crane operator||": {
+  "confidence": "high",
+  "soc": "53",
+  "why": "crane operator moves materials"
+ },
+ "yard laborer||": {
+  "confidence": "low",
+  "soc": "53",
+  "why": "yard labor, material handling"
+ },
+ "yard switch operator||": {
+  "confidence": "high",
+  "soc": "53",
+  "why": "railroad switch operator"
+ },
+ "youth instructor||": {
+  "confidence": "high",
+  "soc": "25",
+  "why": "instructor, educational function"
+ },
+ "youth ministries coordinator investor||": {
+  "confidence": "medium",
+  "soc": "21",
+  "why": "youth ministry coordination"
+ },
+ "youth ministry director||": {
+  "confidence": "medium",
+  "soc": "21",
+  "why": "youth ministry leadership"
+ },
+ "||": {
+  "confidence": "high",
+  "soc": null,
+  "why": "only seniority word remains"
+ }
+}

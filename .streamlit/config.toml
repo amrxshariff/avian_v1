@@ -1,0 +1,11 @@
+# The file watcher exists to hot-reload source while developing. A deployed
+# app reloads on a push, not on a file change, so the watcher has nothing to
+# do here. It still runs: whenever the set of imported modules changes, it
+# walks sys.modules and reads each package's __path__. torch.classes has a
+# __path__ that is not a real path, which is the "Examining the path of
+# torch.classes" line repeating in the deploy log.
+#
+# It applies locally too, so `streamlit run app.py` no longer reloads on save.
+# For hot reload while developing: streamlit run app.py --server.fileWatcherType auto
+[server]
+fileWatcherType = "none"

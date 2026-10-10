@@ -1,0 +1,83 @@
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8511
+
+[timing] build start
+Read 442 rows from Connections.csv (header at line 3).
+  ignored columns: URL, Email Address, Connected On
+  kept:    442
+  dropped: 0 no-name, 0 no role/company
+  of kept: 0 missing role, 12 missing company
+[timing] build stage parse elapsed=0.02s
+Encoding 442 profiles with 'all-MiniLM-L6-v2'...
+Batches:   0%|          | 0/14 [00:00<?, ?it/s]Batches:  21%|##1       | 3/14 [00:00<00:00, 28.27it/s]Batches:  50%|#####     | 7/14 [00:00<00:00, 34.89it/s]Batches:  86%|########5 | 12/14 [00:00<00:00, 40.05it/s]Batches: 100%|##########| 14/14 [00:00<00:00, 40.08it/s]
+[timing] build stage embed elapsed=6.18s people=442
+C:\dev\network-visualiser\.venv\Lib\site-packages\umap\umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+[timing] build stage umap elapsed=15.99s
+[timing] build stage graph elapsed=0.15s
+[timing] classify cache titles=384 hits=0 api=384 batches=20
+[timing] classify batch 1/20 titles=20 calls=1 elapsed=13.02s source=api stop_reason=end_turn out_tokens=1448
+[timing] classify batch 2/20 titles=20 calls=1 elapsed=21.51s source=api stop_reason=end_turn out_tokens=2169
+[timing] classify batch 3/20 titles=20 calls=1 elapsed=17.34s source=api stop_reason=end_turn out_tokens=1852
+[timing] classify batch 4/20 titles=20 calls=1 elapsed=18.59s source=api stop_reason=end_turn out_tokens=1924
+[timing] classify batch 5/20 titles=20 calls=1 elapsed=14.66s source=api stop_reason=end_turn out_tokens=1680
+[timing] classify batch 6/20 titles=20 calls=1 elapsed=15.01s source=api stop_reason=end_turn out_tokens=1622
+[timing] classify batch 7/20 titles=20 calls=1 elapsed=15.58s source=api stop_reason=end_turn out_tokens=1734
+[timing] classify batch 8/20 titles=20 calls=1 elapsed=10.53s source=api stop_reason=end_turn out_tokens=1284
+[timing] classify batch 9/20 titles=20 calls=1 elapsed=21.37s source=api stop_reason=end_turn out_tokens=2148
+[timing] classify batch 10/20 titles=20 calls=1 elapsed=13.00s source=api stop_reason=end_turn out_tokens=1457
+[timing] classify batch 11/20 titles=20 calls=1 elapsed=17.39s source=api stop_reason=end_turn out_tokens=1782
+[timing] classify batch 12/20 titles=20 calls=1 elapsed=17.75s source=api stop_reason=end_turn out_tokens=1960
+[timing] classify batch 13/20 titles=20 calls=1 elapsed=15.27s source=api stop_reason=end_turn out_tokens=1575
+[timing] classify batch 14/20 titles=20 calls=1 elapsed=19.35s source=api stop_reason=end_turn out_tokens=2081
+[timing] classify batch 15/20 titles=20 calls=1 elapsed=12.18s source=api stop_reason=end_turn out_tokens=1401
+[timing] classify batch 16/20 titles=20 calls=1 elapsed=18.68s source=api stop_reason=end_turn out_tokens=2082
+[timing] classify batch 17/20 titles=20 calls=1 elapsed=13.66s source=api stop_reason=end_turn out_tokens=1530
+[timing] classify batch 18/20 titles=20 calls=1 elapsed=15.41s source=api stop_reason=end_turn out_tokens=1695
+[timing] classify batch 19/20 titles=20 calls=1 elapsed=12.42s source=api stop_reason=end_turn out_tokens=1445
+[timing] classify batch 20/20 titles=4 calls=1 elapsed=3.60s source=api stop_reason=end_turn out_tokens=304
+[timing] build stage classify elapsed=306.80s
+[timing] build stage metrics elapsed=1.19s
+[timing] build summary total=331.34s parse=0.02s embed=6.18s umap=15.99s graph=0.15s classify=306.80s metrics=1.19s other=1.01s batches=20 mean_batch=15.32s cache_hits=0 api_calls=20
+[timing] - stage render elapsed=0.10s people=442
+[timing] build start
+Read 442 rows from Connections.csv (header at line 3).
+  ignored columns: URL, Email Address, Connected On
+  kept:    442
+  dropped: 0 no-name, 0 no role/company
+  of kept: 0 missing role, 12 missing company
+[timing] build stage parse elapsed=0.02s
+Encoding 442 profiles with 'all-MiniLM-L6-v2'...
+Batches:   0%|          | 0/14 [00:00<?, ?it/s]Batches:  21%|##1       | 3/14 [00:00<00:00, 27.32it/s]Batches:  50%|#####     | 7/14 [00:00<00:00, 32.14it/s]Batches:  79%|#######8  | 11/14 [00:00<00:00, 35.11it/s]Batches: 100%|##########| 14/14 [00:00<00:00, 36.66it/s]
+[timing] build stage embed elapsed=1.73s people=442
+C:\dev\network-visualiser\.venv\Lib\site-packages\umap\umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+[timing] build stage umap elapsed=0.77s
+[timing] build stage graph elapsed=0.16s
+[timing] classify cache titles=384 hits=0 api=384 batches=20
+[timing] classify batch 1/20 titles=20 calls=1 elapsed=15.33s source=api stop_reason=end_turn out_tokens=1728
+[timing] classify batch 2/20 titles=20 calls=1 elapsed=20.51s source=api stop_reason=end_turn out_tokens=2012
+[timing] classify batch 3/20 titles=20 calls=1 elapsed=16.77s source=api stop_reason=end_turn out_tokens=1801
+[timing] classify batch 4/20 titles=20 calls=1 elapsed=15.07s source=api stop_reason=end_turn out_tokens=1670
+[timing] classify batch 5/20 titles=20 calls=1 elapsed=14.51s source=api stop_reason=end_turn out_tokens=1556
+[timing] classify batch 6/20 titles=20 calls=1 elapsed=13.50s source=api stop_reason=end_turn out_tokens=1584
+[timing] classify batch 7/20 titles=20 calls=1 elapsed=15.18s source=api stop_reason=end_turn out_tokens=1715
+[timing] classify batch 8/20 titles=20 calls=1 elapsed=14.19s source=api stop_reason=end_turn out_tokens=1499
+[timing] classify batch 9/20 titles=20 calls=1 elapsed=19.58s source=api stop_reason=end_turn out_tokens=2119
+[timing] classify batch 10/20 titles=20 calls=1 elapsed=14.16s source=api stop_reason=end_turn out_tokens=1550
+[timing] classify batch 11/20 titles=20 calls=1 elapsed=15.37s source=api stop_reason=end_turn out_tokens=1676
+[timing] classify batch 12/20 titles=20 calls=1 elapsed=17.44s source=api stop_reason=end_turn out_tokens=1879
+[timing] classify batch 13/20 titles=20 calls=1 elapsed=13.42s source=api stop_reason=end_turn out_tokens=1520
+[timing] classify batch 14/20 titles=20 calls=1 elapsed=16.50s source=api stop_reason=end_turn out_tokens=1847
+[timing] classify batch 15/20 titles=20 calls=1 elapsed=14.31s source=api stop_reason=end_turn out_tokens=1487
+[timing] classify batch 16/20 titles=20 calls=1 elapsed=16.85s source=api stop_reason=end_turn out_tokens=1867
+[timing] classify batch 17/20 titles=20 calls=1 elapsed=12.92s source=api stop_reason=end_turn out_tokens=1532
+[timing] classify batch 18/20 titles=20 calls=1 elapsed=12.71s source=api stop_reason=end_turn out_tokens=1468
+[timing] classify batch 19/20 titles=20 calls=1 elapsed=13.68s source=api stop_reason=end_turn out_tokens=1603
+[timing] classify batch 20/20 titles=4 calls=1 elapsed=3.04s source=api stop_reason=end_turn out_tokens=284
+[timing] build stage classify elapsed=295.21s
+[timing] build stage metrics elapsed=1.26s
+[timing] build summary total=299.16s parse=0.02s embed=1.73s umap=0.77s graph=0.16s classify=295.21s metrics=1.26s other=0.01s batches=20 mean_batch=14.75s cache_hits=0 api_calls=20
+[timing] - stage render elapsed=0.03s people=442

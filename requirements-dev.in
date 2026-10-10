@@ -1,0 +1,19 @@
+# Development dependencies: build-only tools, analysis scripts and tests, on top
+# of the runtime set. Hand-edited; requirements-dev.txt is GENERATED from it
+# (see requirements.in for the compile commands).
+#
+# Set up a development environment with both locks:
+#   uv pip sync requirements.txt requirements-dev.txt
+
+# Keeps every package shared with the runtime at the runtime lock's version.
+-c requirements.txt
+
+# src.graph.plot_graph, src.projection, src.labelling, src.clustering (command-line plots).
+matplotlib==3.11.1
+# src.synthetic: generates the P2.9a demo export offline; the app only reads the result.
+faker==33.1.0
+pytest==8.3.4
+# tools/ only (check_chat_grounding reads ANTHROPIC_API_KEY from .env).
+python-dotenv==1.0.1
+# Compiles and syncs the two locks.
+uv==0.11.7
